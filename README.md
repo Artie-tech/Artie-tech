@@ -1,5 +1,5 @@
 
-
+<div style="font-size:1.6em;">
 <p align="center">
   <br>
   <samp>
@@ -38,6 +38,5 @@ Current Project: <a href="https://github.com/Artie-tech/Hydraulic-Soft">Hydrauli
 </samp>
 </details>
 
-
-
 ⭐️ From [Mz_Q](https://github.com/Artie-tech)
+</div>
